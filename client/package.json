@@ -19,6 +19,11 @@
     "vite-plugin-solid": "^2.8.2"
   },
   "dependencies": {
+    "@chainsafe/libp2p-noise": "^15.0.0",
+    "@chainsafe/libp2p-yamux": "^6.0.2",
+    "@libp2p/bootstrap": "^10.0.15",
+    "@libp2p/websockets": "^8.0.15",
+    "libp2p": "^1.2.3",
     "solid-js": "^1.8.11"
   }
 }
